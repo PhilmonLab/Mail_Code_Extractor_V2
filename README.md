@@ -82,3 +82,10 @@ py run.py
 
 #### To exit the venv
 deactivate
+
+<img width="704" height="607" alt="Screen" src="https://github.com/PhilmonLab/Mail_Code_Extractor_V2/blob/main/assets%20/pictures/code.png" />
+<img width="704" height="607" alt="Screen" src="https://github.com/PhilmonLab/Mail_Code_Extractor_V2/blob/main/assets%20/pictures/code_2.png" />
+
+
+
+
